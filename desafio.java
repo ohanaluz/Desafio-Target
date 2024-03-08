@@ -1,4 +1,4 @@
-import java.util.Scanner;
+
 
 public class desafio {
     public static void main(String[] args) {
@@ -26,7 +26,7 @@ System.out.println(SOMA);
 }
 
 public static void Ex2 (){
-    Scanner scanner = new Scanner(System.in);
+   
 
     int numeroVerificar = 13;  
 
